@@ -7,6 +7,9 @@ step 1:create the necessary folders and place the mentioned files in that folder
 step 2:compile all the class files inside their respective directories 
 step 3:compile the main file-"NewJFrame.java" and run the main file
 
+
+or simply download and run the jar file (NOTE:jvm is needed to run the jar file)
+
 that's all
 --------------------------------------------------------------------------------------------------
 
